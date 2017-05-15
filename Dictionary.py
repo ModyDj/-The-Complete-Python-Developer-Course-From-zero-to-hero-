@@ -3,7 +3,7 @@ person=dict(Name="Mohanad", Age=25, Salary=8000)# mutable
 print(person)
 print(person["Name"])
 print("Update Name")
-person["Name"] = "Mohanad Djaber"
+person["Name"] = "Mohanad"
 print(person["Name"])
 print("add Insurance key")
 person["Insurance"] = "Yes"
