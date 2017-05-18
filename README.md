@@ -1,5 +1,5 @@
 # -The-Complete-Python-Developer-Course-From-zero-to-hero-
-**Hi!, This course from Udemy, which teach you Python from zero to hero**
+**Hi!, This course from Udemy, which teaches you Python from zero to hero**
 
 https://www.udemy.com/python-for-complete-beginners-learn-step-by-step
 
